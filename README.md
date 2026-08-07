@@ -1,13 +1,3 @@
-<!-- ============================================================
-     FUTURISTIC GITHUB PROFILE README
-     ------------------------------------------------------------
-     Files you need in your profile repo (repo named like your
-     username, e.g. paybackretr0/paybackretr0):
-       1. README.md           <- this file
-       2. profile-banner.svg  <- animated banner (copy from repo)
-       3. .github/workflows/snake.yml  <- snake animation
-     ============================================================ -->
-
 <div align="center">
 
 <!-- animated cyberpunk banner -->
@@ -91,8 +81,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=paybackretr0&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paybackretr0&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" height="180" alt="Most Used Languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=paybackretr0&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" height="180" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=paybackretr0&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" height="180" alt="Most Used Languages" />
 
 <br/>
 
@@ -104,7 +94,14 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=paybackretr0&theme=onestar&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%" alt="GitHub Trophies" />
+<img src="https://trophy.ryglcloud.net/?username=paybackretr0&theme=onestar&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%" alt="GitHub Trophies" />
+
+<!-- Cadangan jika trophy di atas mati (pilih salah satu):
+  https://trophy.benkou.dev/?username=paybackretr0&theme=onestar&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7
+  https://github-trophies.devomb.com/?username=paybackretr0&theme=onestar&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7
+  https://github-profile-trophy-unserori.vercel.app/?username=paybackretr0&theme=onestar&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7
+  https://github-profile-trophy-orcin-eta.vercel.app/?username=paybackretr0&theme=onestar&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7
+-->
 
 </div>
 
@@ -137,7 +134,7 @@
 | **Whistleblowing DPMPTSP Padang**       | Anonymous complaint reporting with unique tracking code & secure admin–reporter channel.                 | Kotlin · Express · MySQL        |
 | **AgroWista**                           | Tourism village app with point-based reviews, QR product scanning & issue reporting.                     | Kotlin · Express · MySQL        |
 
-> 🔭 _Full architecture, database schema & live demos: [khaliedmtrn.github.io → Portfolio](https://paybackretr0.github.io/porto-lied/)_
+> 🔭 _Full architecture, database schema & live demos: [khaliedmtrn.maturino.my.id → Portfolio](https://khalied.maturino.my.id/)_
 
 ---
 
