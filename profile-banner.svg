@@ -1,0 +1,203 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="100%" role="img" aria-label="Khalied Nauly Maturino — Software Developer, Mobile and Web">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05070f"/>
+      <stop offset="0.5" stop-color="#0b1230"/>
+      <stop offset="1" stop-color="#05070f"/>
+    </linearGradient>
+    <radialGradient id="orbCyan" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbBlue" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2563eb" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbViolet" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee">
+        <animate attributeName="stop-color" values="#22d3ee;#60a5fa;#c084fc;#22d3ee" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.5" stop-color="#60a5fa">
+        <animate attributeName="stop-color" values="#60a5fa;#c084fc;#22d3ee;#60a5fa" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#c084fc">
+        <animate attributeName="stop-color" values="#c084fc;#22d3ee;#60a5fa;#c084fc" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="scanGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22d3ee" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glowSoft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="1000" height="360" fill="url(#bgGrad)"/>
+
+  <!-- glowing orbs -->
+  <circle cx="140" cy="120" r="230" fill="url(#orbCyan)">
+    <animate attributeName="opacity" values="1;0.55;1" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="870" cy="110" r="240" fill="url(#orbViolet)">
+    <animate attributeName="opacity" values="0.65;1;0.65" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="500" cy="340" r="280" fill="url(#orbBlue)">
+    <animate attributeName="opacity" values="0.85;0.5;0.85" dur="8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- animated grid (seamless loop) -->
+  <g stroke="#1d3a8a" stroke-width="1" opacity="0.3">
+    <line x1="0" y1="0" x2="1000" y2="0"/>
+    <line x1="0" y1="50" x2="1000" y2="50"/>
+    <line x1="0" y1="100" x2="1000" y2="100"/>
+    <line x1="0" y1="150" x2="1000" y2="150"/>
+    <line x1="0" y1="200" x2="1000" y2="200"/>
+    <line x1="0" y1="250" x2="1000" y2="250"/>
+    <line x1="0" y1="300" x2="1000" y2="300"/>
+    <line x1="0" y1="350" x2="1000" y2="350"/>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="0 50" dur="4s" repeatCount="indefinite"/>
+  </g>
+  <g stroke="#1d3a8a" stroke-width="1" opacity="0.22">
+    <line x1="0" y1="0" x2="0" y2="360"/>
+    <line x1="50" y1="0" x2="50" y2="360"/>
+    <line x1="100" y1="0" x2="100" y2="360"/>
+    <line x1="150" y1="0" x2="150" y2="360"/>
+    <line x1="200" y1="0" x2="200" y2="360"/>
+    <line x1="250" y1="0" x2="250" y2="360"/>
+    <line x1="300" y1="0" x2="300" y2="360"/>
+    <line x1="350" y1="0" x2="350" y2="360"/>
+    <line x1="400" y1="0" x2="400" y2="360"/>
+    <line x1="450" y1="0" x2="450" y2="360"/>
+    <line x1="500" y1="0" x2="500" y2="360"/>
+    <line x1="550" y1="0" x2="550" y2="360"/>
+    <line x1="600" y1="0" x2="600" y2="360"/>
+    <line x1="650" y1="0" x2="650" y2="360"/>
+    <line x1="700" y1="0" x2="700" y2="360"/>
+    <line x1="750" y1="0" x2="750" y2="360"/>
+    <line x1="800" y1="0" x2="800" y2="360"/>
+    <line x1="850" y1="0" x2="850" y2="360"/>
+    <line x1="900" y1="0" x2="900" y2="360"/>
+    <line x1="950" y1="0" x2="950" y2="360"/>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-50 0" dur="6s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- rotating orbit rings -->
+  <g transform="translate(500 180)">
+    <circle r="150" fill="none" stroke="#22d3ee" stroke-width="1" stroke-dasharray="6 14" opacity="0.35">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="30s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="175" fill="none" stroke="#a78bfa" stroke-width="1" stroke-dasharray="2 18" opacity="0.25">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="40s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- floating particles -->
+  <g fill="#67e8f9">
+    <circle cx="120" cy="300" r="2.5">
+      <animate attributeName="cy" values="360;40;360" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="260" cy="300" r="2">
+      <animate attributeName="cy" values="380;20;380" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="430" cy="300" r="2.5" fill="#a78bfa">
+      <animate attributeName="cy" values="360;30;360" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="300" r="1.8">
+      <animate attributeName="cy" values="380;20;380" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.7;0" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="740" cy="300" r="2.2" fill="#c084fc">
+      <animate attributeName="cy" values="360;40;360" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.85;0" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="880" cy="300" r="2">
+      <animate attributeName="cy" values="380;30;380" dur="9.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="9.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- scanline sweep -->
+  <rect width="1000" height="110" fill="url(#scanGrad)">
+    <animateTransform attributeName="transform" type="translate" from="0 -110" to="0 360" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- HUD corner brackets -->
+  <g stroke="#22d3ee" stroke-width="2" fill="none" opacity="0.85">
+    <path d="M20 52 L20 20 L52 20"/>
+    <path d="M948 20 L980 20 L980 52"/>
+    <path d="M980 308 L980 340 L948 340"/>
+    <path d="M52 340 L20 340 L20 308"/>
+  </g>
+
+  <!-- status line top-left -->
+  <g font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#67e8f9">
+    <text x="28" y="30">&gt; system_online — mobile &amp; web developer</text>
+    <rect x="300" y="20" width="7" height="13" fill="#67e8f9">
+      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text x="972" y="30" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#64748b">v2.0 // 2026</text>
+
+  <!-- small label -->
+  <text x="500" y="118" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="8" fill="#93c5fd">
+    SOFTWARE DEVELOPER
+    <animate attributeName="opacity" values="0.9;0.4;0.9" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- main title with animated gradient + glow -->
+  <text x="500" y="172" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="3" fill="url(#titleGrad)" filter="url(#glow)">
+    KHALIED NAULY MATURINO
+  </text>
+
+  <!-- subtitle -->
+  <text x="500" y="212" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="17" letter-spacing="5" fill="#cbd5e1" filter="url(#glowSoft)">
+    MOBILE · WEB · INFORMATION SYSTEMS
+  </text>
+
+  <!-- animated underline -->
+  <rect x="300" y="228" width="400" height="2" fill="#22d3ee" opacity="0.7">
+    <animate attributeName="width" values="0;400;0" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- status chips -->
+  <g font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#a5b4fc">
+    <rect x="335" y="262" width="150" height="28" rx="14" fill="#22d3ee" opacity="0.12" stroke="#22d3ee" stroke-opacity="0.5"/>
+    <circle cx="353" cy="276" r="4" fill="#22d3ee">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="365" y="281">PADANG, ID</text>
+
+    <rect x="495" y="262" width="170" height="28" rx="14" fill="#a78bfa" opacity="0.12" stroke="#a78bfa" stroke-opacity="0.5"/>
+    <text x="514" y="281" fill="#c4b5fd">UNAND · S1 SISFO</text>
+
+    <rect x="675" y="262" width="200" height="28" rx="14" fill="#22d3ee" opacity="0.12" stroke="#22d3ee" stroke-opacity="0.5"/>
+    <text x="694" y="281">OPEN TO COLLABORATION</text>
+  </g>
+
+  <!-- bottom status bar -->
+  <g font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#64748b">
+    <text x="28" y="336">@paybackretr0</text>
+    <text x="972" y="336" text-anchor="end">gpa 3.76/4.00 · hackathon medalist · bangkit 2024</text>
+  </g>
+</svg>

@@ -1,121 +1,176 @@
+<!-- ============================================================
+     FUTURISTIC GITHUB PROFILE README
+     ------------------------------------------------------------
+     Files you need in your profile repo (repo named like your
+     username, e.g. paybackretr0/paybackretr0):
+       1. README.md           <- this file
+       2. profile-banner.svg  <- animated banner (copy from repo)
+       3. .github/workflows/snake.yml  <- snake animation
+     ============================================================ -->
+
 <div align="center">
 
-# 👋 Hi, I'm Khalied Nauly Maturino
-### Software Engineer • Mobile & Web Developer • Information Systems Student
+<!-- animated cyberpunk banner -->
+<img src="./profile-banner.svg" width="100%" alt="Khalied Nauly Maturino — Software Developer, Mobile & Web" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Mobile+Developer+(Kotlin+%26+Flutter);Full-Stack+Web+Developer;REST+API+Engineer;Building+Impactful+Digital+Products" />
+<!-- animated typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=22D3EE&background=0D1117&center=true&vCenter=true&multiline=false&width=620&height=60&lines=Building+digital+information+systems;Android+%7C+Flutter+%7C+Laravel+%7C+React;Hackathon+medalist+%26+Bangkit+2024+Alumni;Open+to+collaboration+%F0%9F%9A%80" alt="Typing animation" />
+
+<br/>
+
+<!-- social badges -->
+
+<a href="https://github.com/paybackretr0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/khaliedmtrn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/khaliedmtrn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:khalidmaturino@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://khalied.maturino.my.id"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+```text
+┌────────────────────────────────────────────────────────────┐
+│  SYS.INIT: KHALIED NAULY MATURINO                          │
+│  ROLE: SOFTWARE DEVELOPER                                  │
+│  FOCUS: MOBILE · WEB · INFORMATION SYSTEMS                 │
+│  LOCATION: PADANG, INDONESIA                               │
+│  EDU: S1 SISTEM INFORMASI — UNIVERSITAS ANDALAS (3.76/4.00)│
+│  STATUS: OPEN TO INTERNSHIPS · COLLABORATION · PROJECTS     │
+└────────────────────────────────────────────────────────────┘
+```
 
-I'm an Information Systems student at **Andalas University** who loves building digital products from backend logic to mobile interface.
+## ⚡ About Me
 
-I work across **mobile apps, web systems, and backend services** — focusing on building reliable, scalable, and user-focused applications.
-
-💡 I enjoy turning ideas into real working systems — from database design to deployed applications.
-
----
-
-## 🧩 What I Do
-
-- 📱 Mobile App Development (Android & Cross-Platform)
-- 🌐 Full-Stack Web Development
-- 🔌 RESTful API Development & Integration
-- 🗄️ Database Design & Management
-- ⚙️ System Deployment & Testing
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- 🎓 **Final-year S1 Information Systems** at **Universitas Andalas** — GPA **3.76 / 4.00**, graduating **Sept 2026**.
+- 💻 Software Developer building **mobile apps (Android · Flutter)** and **web information systems (Laravel · React)**.
+- 🏛️ Hands-on experience shipping **campus & government digitalization projects** — DPMPTSP Padang, IT Directorate UNAND.
+- 🏆 Hackathon medalist — **2nd Place Impact National Hackathon**, **3rd Place National Cybertech Hackathon**, **Gold Medal — Mahasiswa Berdampak Seminar**.
+- 🎓 **Bangkit Academy 2024** alumni (Google-backed Android program).
+- 🚀 Published a production Android app on the **Google Play Store** — _ExcaMotion_.
+- ⚙️ Currently leveling up: **Clean Architecture**, **System Design**, **DevOps**.
 
 ---
 
-### 📱 Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+## 🛸 Tech Stack
 
----
+<div align="center">
 
-### 🌐 Web Development
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=kotlin,dart,js,ts,php" alt="Kotlin, Dart, JavaScript, TypeScript, PHP" />
 
 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Blade](https://img.shields.io/badge/Laravel%20Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=react,vue,vite,tailwind" alt="React, Vue, Vite, Tailwind CSS" />
 
 **Backend**
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-**Database**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-A08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express" alt="Laravel, Node.js, Express" />
 
----
+**Mobile**
 
-### 🧰 Tools & Dev Environment
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=androidstudio,flutter" alt="Android Studio, Flutter" />
 
----
+**Database & DevOps**
 
-## 📌 Highlight Projects
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,git,github,linux" alt="MySQL, PostgreSQL, Redis, Docker, Git, GitHub, Linux" />
 
-- **PKM Management System** — Laravel multi-role workflow platform  
-- **Scholarship Information System** — React + Express REST API  
-- **ExcaMotion** — Android excavator activity tracker  
-- **Guest Visit Management** — Government web system  
-- **Telemetri Attendance App** — Flutter QR attendance system  
+**Tools**
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=paybackretr0&show_icons=true&theme=highcontrast&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=paybackretr0&theme=highcontrast&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paybackretr0&layout=compact&theme=highcontrast&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=postman,figma,vscode" alt="Postman, Figma, VS Code" />
 
 </div>
 
-
+> 📌 _Also working with: Jetpack Compose · Room · Ant Design · Sequelize ORM · RESTful API · MVC / MVVM / Clean Architecture_
 
 ---
 
-## 🤝 Connect With Me
+## 🧬 GitHub Pulse
 
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/khaliedmtrn) •
-[Instagram](https://instagram.com/khaliedmtrn) •
-[YouTube](https://youtube.com/@retr0Xdedsec) •
-[Email](mailto:khalidmaturino@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=paybackretr0&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paybackretr0&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" height="180" alt="Most Used Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=paybackretr0&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakNum=C9D1D9&sideNums=8B949E&currStreakLabel=22D3EE&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=paybackretr0&bg_color=0D1117&color=22D3EE&line=2563EB&point=22D3EE&area=true&area_color=0891B2&hide_border=true&title_color=22D3EE" width="100%" alt="GitHub Activity Graph" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=paybackretr0&theme=onestar&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
+## 🐍 Contribution Snake
+
 <div align="center">
 
-### “I build systems from database to mobile screen.”
+<!-- Generated daily by the snake.yml workflow — see instructions below -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paybackretr0/paybackretr0/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paybackretr0/paybackretr0/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/paybackretr0/paybackretr0/output/github-snake-dark.svg" />
+</picture>
 
 </div>
+
+---
+
+## 🚀 Highlight Projects
+
+| Project                                 | Description                                                                                              | Stack                           |
+| :-------------------------------------- | :------------------------------------------------------------------------------------------------------- | :------------------------------ |
+| **BSS Management System — UNAND**       | Digitalized student temporary-leave flow: online submission, multi-step verification & official letters. | Laravel · MySQL · Docker        |
+| **Non-APBN Scholarship System — UNAND** | Scholarship registration, document validation & selection with admin dashboard.                          | React · Express · Redis · MySQL |
+| **TeleMetri App + Admin Dashboard**     | Organization attendance with dynamic QR + geofencing/GPS, plus a web admin portal.                       | Flutter · Laravel · MySQL       |
+| **ACEED EXPO Unand 2025**               | Job-fair platform: participant registration, vacancy publication & schedule management.                  | Laravel · MySQL                 |
+| **ExcaMotion**                          | Real-time excavator cycle analysis (Dig/Load/Swing/Dump) — **published on Google Play**.                 | Kotlin · Compose · Room         |
+| **Whistleblowing DPMPTSP Padang**       | Anonymous complaint reporting with unique tracking code & secure admin–reporter channel.                 | Kotlin · Express · MySQL        |
+| **AgroWista**                           | Tourism village app with point-based reviews, QR product scanning & issue reporting.                     | Kotlin · Express · MySQL        |
+
+> 🔭 _Full architecture, database schema & live demos: [khaliedmtrn.github.io → Portfolio](https://paybackretr0.github.io/porto-lied/)_
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Gold Medal — Poster Category**, Seminar Dampak Mahasiswa Berdampak (2026)
+- 🥈 **2nd Place — Impact National Hackathon**, Maxy Academy (2024)
+- 🥉 **3rd Place — National Cybertech Hackathon**, Politeknik Negeri Padang (2024)
+- 🎓 **Bangkit Academy Alumni**, Google · GoTo · Traveloka (2024)
+- 🧭 **Leadership**, UKM Neo Telemetri UNAND — OC Coordinator · PIC Firetech 2025 Hackathon · Event Coordinator Open Recruitment 14
+
+---
+
+## 📡 Uplink
+
+I'm always open to **internships**, **collaborations**, and interesting projects — especially around **campus/government digitalization** and **mobile apps**.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/khaliedmtrn"><img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://khalied.maturino.my.id"><img src="https://img.shields.io/badge/-View_My_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:khalidmaturino@gmail.com"><img src="https://img.shields.io/badge/-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=paybackretr0&style=for-the-badge&color=22d3ee" alt="Profile views" />
+
+</div>
+
+---
+
+```text
+> transmission_end()
+> "Build systems that make public services work better for people." 💙
+> stay_tuned: more projects incoming...
+```
