@@ -29,7 +29,7 @@
 ╭──────────────────────────────────────────────────────────────╮
 │  KHALIED NAULY MATURINO                                      │
 │  Software developer — mobile & web · information systems     │
-│  Padang, Indonesia · Universitas Andalas · GPA 3.76 / 4.00   │
+│  Padang, Indonesia · Universitas Andalas · GPA 3.77 / 4.00   │
 │  Now: Developer & Programmer — PT Persero Batam              │
 │  Open to internships · collaborations · interesting builds   │
 ╰──────────────────────────────────────────────────────────────╯
@@ -39,7 +39,7 @@
 
 ## 01 · About me
 
-- 🎓 **Final-year S1 Information Systems** at **Universitas Andalas** — GPA **3.76 / 4.00**, graduating **Sept 2026**.
+- 🎓 **Final-year S1 Information Systems** at **Universitas Andalas** — GPA **3.77 / 4.00**, graduating **Sept 2026**.
 - 💻 Software developer building **mobile apps (Android · Flutter)** and **web information systems (Laravel · React)**.
 - 🏛️ Hands-on experience shipping **campus & government digitalisation** — DPMPTSP Padang, IT Directorate UNAND, PT Persero Batam.
 - 🏆 Hackathon medalist — **2nd Place Impact National Hackathon**, **3rd Place National Cybertech Hackathon**, **Gold Medal — Mahasiswa Berdampak Seminar**.
@@ -202,5 +202,3 @@ I am always open to **internships**, **collaborations** and interesting projects
 │   for people."                                               │
 ╰──────────────────────────────────────────────────────────────╯
 ```
-
-
